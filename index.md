@@ -6,9 +6,9 @@ This is just a placeholder.
 
 We take your privacy very seriously.
 
-For more details see [Our Privacy Policy](https://guides.github.com/features/mastering-markdown/).
+For more details see [Our Privacy Policy](https://github.com/zabazakka/menutoday/edit/gh-pages/PrivacyPolicy.txt).
 
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with? Contact us at 888-555-1212. This is just a placeholder app.
