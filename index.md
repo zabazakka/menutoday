@@ -6,8 +6,7 @@ This is just a placeholder.
 
 We take your privacy very seriously.
 
-For more details see [Our Privacy Policy](https://github.com/zabazakka/menutoday/edit/gh-pages/PrivacyPolicy.txt).
-
+This is why we don't collect any information at all.
 
 ### Support or Contact
 
